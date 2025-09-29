@@ -28,7 +28,7 @@ Right now, I'm pouring my energy into **[Locuno](https://github.com/Locuno)**, a
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cschanhniem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschanhniem&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschanhniem&layout=compact&langs_count=7&theme=tokyonight&hide=html,css"/>
 </p>
 
 <p align="center">
