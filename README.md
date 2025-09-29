@@ -35,6 +35,36 @@ Right now, I'm pouring my energy into **[Locuno](https://github.com/Locuno)**, a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cschanhniem&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+### 🎮 Interactive Contribution Visualizations
+
+<!-- Animated Snake Game eating my contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cschanhniem/cschanhniem/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cschanhniem/cschanhniem/output/github-snake.svg" />
+  <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/cschanhniem/cschanhniem/output/github-snake.svg" />
+</picture>
+
+<!-- Pac-Man Game Style Contribution Graph -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/cschanhniem" alt="cschanhniem's Contribution Graph" width="800" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cschanhniem/cschanhniem/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cschanhniem/cschanhniem/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/cschanhniem/cschanhniem/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+### 🏙️ 3D Contribution Skyline
+
+Experience my coding journey in 3D! Check out my [**GitHub Skyline**](https://skyline.github.com/cschanhniem/2024) - a beautiful cityscape visualization of my contributions that you can rotate, zoom, and even 3D print!
+
+<p align="center">
+  <a href="https://skyline.github.com/cschanhniem/2024">
+    <img src="https://img.shields.io/badge/View%20My%203D%20Skyline-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="3D GitHub Skyline"/>
+  </a>
+</p>
+
+### 📈 Enhanced Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/cschanhniem" alt="Enhanced Contribution Graph" width="800" />
 </p>
