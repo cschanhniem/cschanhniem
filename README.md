@@ -35,24 +35,6 @@ Right now, I'm pouring my energy into **[Locuno](https://github.com/Locuno)**, a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cschanhniem&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 🎮 Interactive Contribution Visualizations
-
-<!-- Animated Snake Game eating my contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cschanhniem/cschanhniem/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cschanhniem/cschanhniem/output/github-snake.svg" />
-  <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/cschanhniem/cschanhniem/output/github-snake.svg" />
-</picture>
-
-<!-- Pac-Man Game Style Contribution Graph -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cschanhniem/cschanhniem/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cschanhniem/cschanhniem/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/cschanhniem/cschanhniem/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
 ### 🏙️ 3D Contribution Skyline
 
 Experience my coding journey in 3D! These embedded visualizations show my contribution patterns as beautiful 3D landscapes, automatically updated daily.
@@ -63,14 +45,4 @@ Experience my coding journey in 3D! These embedded visualizations show my contri
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
     <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg" width="100%">
   </picture>
-</p>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Seasonal 3D Contribution Graph" width="100%">
-</p>
-
-### 📈 Enhanced Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/cschanhniem" alt="Enhanced Contribution Graph" width="800" />
 </p>
