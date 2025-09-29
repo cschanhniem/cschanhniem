@@ -55,12 +55,18 @@ Right now, I'm pouring my energy into **[Locuno](https://github.com/Locuno)**, a
 
 ### 🏙️ 3D Contribution Skyline
 
-Experience my coding journey in 3D! Check out my [**GitHub Skyline**](https://skyline.github.com/cschanhniem/2024) - a beautiful cityscape visualization of my contributions that you can rotate, zoom, and even 3D print!
+Experience my coding journey in 3D! These embedded visualizations show my contribution patterns as beautiful 3D landscapes, automatically updated daily.
 
 <p align="center">
-  <a href="https://skyline.github.com/cschanhniem/2024">
-    <img src="https://img.shields.io/badge/View%20My%203D%20Skyline-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="3D GitHub Skyline"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Seasonal 3D Contribution Graph" width="100%">
 </p>
 
 ### 📈 Enhanced Contribution Graph
