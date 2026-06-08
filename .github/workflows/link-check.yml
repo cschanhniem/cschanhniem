@@ -1,0 +1,40 @@
+name: Link Check
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"  # Monday 9 AM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check README links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >
+            --verbose
+            --no-progress
+            --timeout 30
+            --max-retries 3
+            --exclude-path profile-3d-contrib
+            --exclude "mailto:"
+            --exclude "https://img.shields.io"
+            --exclude "https://github-readme-stats.vercel.app"
+            --exclude "https://github-readme-streak-stats.herokuapp.com"
+            README.md
+          fail: false
+
+      - name: Create issue on broken links
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Broken links detected in README"
+          content-filepath: ./lychee/out.md
+          labels: maintenance

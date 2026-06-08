@@ -1,30 +1,92 @@
-# Hi, I'm Le Viet Hong (he/him) 👋
+<div align="center">
 
-<a href="https://www.linkedin.com/in/theaiarchitect/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:vh3969@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+# Chánh Niệm
 
-Engineering leader with 20+ years of hands-on experience building scalable, reliable systems and growing high-performing teams from the ground up. I lead by example, whether it's debugging a tough production issue, architecting a new system, or mentoring an intern into a senior engineer. My focus is on operational excellence, product-driven engineering, and fostering a culture of clarity and ownership.
+**I build systems that shouldn't exist yet.**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theaiarchitect/)
+[![Email](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vh3969@gmail.com)
 
-### 🌱 What I'm Currently Building
-
-Right now, I'm pouring my energy into **[Locuno](https://github.com/Locuno)**, a community safety venture I founded to reduce emergency response times in dense urban areas through a verified neighbor network.
+</div>
 
 ---
 
-### 🛠️ My Core Toolkit
+20 years building software. Started with Django and PostgreSQL when "cloud" meant EC2 with a credit card. Went deep on infrastructure, ML, and distributed systems before pivoting into product engineering full-time. These days I split between fintech tooling, community safety tech, and making AI coding agents actually useful.
 
-| Languages & Frameworks | Cloud & DevOps | Data & ML |
-| :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) `Django`, `FastAPI` | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) `GCP`, `Azure` | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) `PyTorch` |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) `Node.js`, `React` | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) `Kubernetes` | `LightGBM`, `XGBoost` |
-| ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) `Vite` | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) `GitHub Actions` | `SQL`, `ETL` |
-| `TDD`, `PyTest`, `Jest` | `Sentry`, `PostHog` | `Time-Series` |
+I don't chase frameworks. I solve the problem in front of me with whatever works.
 
 ---
 
-### 📊 My GitHub Stats & Activity
+## What I'm shipping
+
+### [ClawPing](https://github.com/cschanhniem/clawping) ![Stars](https://img.shields.io/github/stars/cschanhniem/clawping?style=flat-square)
+Outbound-only monitoring for home servers behind CGNAT. No public IP, no port forwarding, no VPS. Your server pings *out* to a Cloudflare Worker. That's it. 12 MB Go binary you install and forget.
+
+### [Locuno](https://locuno.com)
+Community safety platform I founded. Verified neighbor network that reduces emergency response times in dense urban areas. Full stack: [app](https://github.com/cschanhniem/app.locuno.com), [dashboard](https://github.com/cschanhniem/dash.locuno.com), [landing](https://github.com/cschanhniem/landing.locuno.com), [CRM](https://github.com/cschanhniem/crm.locuno.com), [blog](https://github.com/cschanhniem/blog.locuno.com).
+
+### [ClawSeatbelt](https://github.com/cschanhniem/ClawSeatbelt)
+Local-first security plugin for OpenClaw. Scores risky inbound content, guards dangerous tool use, redacts sensitive transcript material. No cloud dependency.
+
+### [computestatecraft.com](https://github.com/cschanhniem/computestatecraft.com)
+Policy-grade maps and dossiers for AI, chips, capital, coalitions, and geopolitics. Because supply chain risk isn't just an engineering problem.
+
+---
+
+## Fintech & quantitative work
+
+| Project | What it does |
+|---------|-------------|
+| [mispricing-desk](https://github.com/cschanhniem/mispricing-desk) | Cross-venue mispricing detection |
+| [stophunter](https://github.com/cschanhniem/stophunter) | Stop-loss hunting pattern analysis |
+| [polymarket-master](https://github.com/cschanhniem/polymarket-master) | Prediction market automation |
+| [market-maker-hummingbot](https://github.com/cschanhniem/market-maker-hummingbot) | Market making with Hummingbot |
+| [vnstock-master](https://github.com/cschanhniem/vnstock-master) | Vietnamese stock market data |
+| [janestreet](https://github.com/cschanhniem/janestreet) | Jane Street puzzle solutions |
+
+---
+
+## Enterprise systems I've built & run
+
+HRM, ERP, POS, CRM — all production, all handling real money and real people:
+
+- **[HRM](https://github.com/cschanhniem/hrm.tutimi.com.vn)** / **[ERP](https://github.com/cschanhniem/erp-be)** / **[POS](https://github.com/cschanhniem/pos_ttmi_app)** — Back-office stack running at [tutimi.com.vn](https://tutimi.com.vn)
+- **[Locuno platform](https://locuno.com)** — Full product suite across 8+ repos
+
+---
+
+## AI & agent tooling
+
+| Project | What it does |
+|---------|-------------|
+| [everything-claude-code](https://github.com/cschanhniem/everything-claude-code) | Agent harness optimization — skills, instincts, memory, security |
+| [CLIProxyAPI](https://github.com/cschanhniem/CLIProxyAPI) | Wraps Gemini CLI, Codex, Claude Code as OpenAI-compatible API |
+| [codex-skill](https://github.com/cschanhniem/codex-skill) | Custom skills for Codex agents |
+
+---
+
+## OSS I maintain or contribute to
+
+- **[clawping](https://github.com/cschanhniem/clawping)** — 28 stars, original project
+- **[autogluon](https://github.com/cschanhniem/autogluon)** — ML in 3 lines (fork, active contributor)
+- **[opentelemetry-python-contrib](https://github.com/cschanhniem/opentelemetry-python-contrib)** — OpenTelemetry instrumentation (fork, active contributor)
+- **[models](https://github.com/cschanhniem/models)** — TensorFlow models and examples (fork)
+
+---
+
+## Stack
+
+Languages: **Python**, **TypeScript**, **Go**, **Dart**, **Swift**, **Kotlin**, **MQL5**, **Typst**
+
+Infra: **AWS**, **GCP**, **Cloudflare Workers**, **Docker**, **Kubernetes**, **Terraform**, **GitHub Actions**
+
+Data & ML: **PyTorch**, **scikit-learn**, **LightGBM**, **XGBoost**, **TensorFlow**, **SQL**, **Jupyter**
+
+Web: **React**, **React Native**, **Vue**, **Next.js**, **Django**, **FastAPI**, **Vite**
+
+---
+
+## GitHub
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cschanhniem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -34,10 +96,6 @@ Right now, I'm pouring my energy into **[Locuno](https://github.com/Locuno)**, a
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cschanhniem&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-### 🏙️ 3D Contribution Skyline
-
-Experience my coding journey in 3D! These embedded visualizations show my contribution patterns as beautiful 3D landscapes, automatically updated daily.
 
 <p align="center">
   <picture>
