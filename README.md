@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=20+years+building+systems.;Fintech+%7C+Community+Safety+%7C+AI+Tooling;Python+%7C+TypeScript+%7C+Go+%7C+Dart" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=100&lines=170+repos.+20+years.+Full+stack+to+full+pipeline.;Quant+%7C+ML+%7C+Mobile+%7C+Infra+%7C+Agents;From+Django+on+EC2+to+Cloudflare+Workers+at+the+edge" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,13 +23,100 @@
 <div align="center">
 
 ```
-Started with Django and PostgreSQL when "cloud" meant EC2 with a credit card.
-Went deep on infrastructure, ML, and distributed systems.
-Now: fintech tooling, community safety tech, AI coding agents.
-I don't chase frameworks. I solve the problem in front of me.
+I don't build demos. I build systems that run in production under load.
+Mobile apps, quant pipelines, ML models, full-stack platforms, agent harnesses.
+If it needs to work — not just compile — I've probably shipped it.
 ```
 
 </div>
+
+<br/>
+
+<!-- TECH ARSENAL -->
+<div align="center">
+
+### Languages & platforms I've shipped to production
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="16%">
+
+**Python**
+`ML` `quant` `agents` `APIs`
+
+</td>
+<td align="center" width="16%">
+
+**TypeScript**
+`full-stack` `React` `Next.js`
+
+</td>
+<td align="center" width="16%">
+
+**Swift**
+`iOS` `native`
+
+</td>
+<td align="center" width="16%">
+
+**Kotlin**
+`Android` `native`
+
+</td>
+<td align="center" width="16%">
+
+**Dart**
+`Flutter` `cross-platform`
+
+</td>
+<td align="center" width="16%">
+
+**Go**
+`CLI` `workers` `infra`
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**C / C++**
+`systems` `ML` `bindings`
+
+</td>
+<td align="center">
+
+**MQL5**
+`MetaTrader` `algo trading`
+
+</td>
+<td align="center">
+
+**Solidity**
+`smart contracts` `DeFi`
+
+</td>
+<td align="center">
+
+**Lua**
+`embedded` `config`
+
+</td>
+<td align="center">
+
+**PHP**
+`legacy systems`
+
+</td>
+<td align="center">
+
+**R**
+`statistics` `analysis`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -39,22 +126,113 @@ I don't chase frameworks. I solve the problem in front of me.
 ### Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,ts,go,swift,kotlin,dart,flutter&theme=dark" height="42" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,ts,go,swift,kotlin,dart,flutter,rust&theme=dark" height="42" alt="Languages" />
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,django,fastapi,vite,postgres&theme=dark" height="42" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,django,fastapi,vite,postgres,redis&theme=dark" height="42" alt="Frameworks" />
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,kubernetes,terraform,githubactions&theme=dark" height="42" alt="Infra" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,kubernetes,terraform,githubactions,bash&theme=dark" height="42" alt="Infra" />
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,jupyter,linux,redis,grafana&theme=dark" height="42" alt="Data & ML" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,jupyter,linux,grafana,nginx,mongodb&theme=dark" height="42" alt="Data & ML" />
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,figma,vercel,neovim,postgres,sqlite,github&theme=dark" height="42" alt="Tools" />
 </a>
 
 </div>
+
+<br/>
+
+---
+
+<!-- DOMAINS -->
+<div align="center">
+
+### Domains I work in
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### Quantitative & fintech
+- Cross-venue mispricing detection
+- Stop-loss hunting pattern analysis
+- Prediction market automation
+- Market making (Hummingbot)
+- MetaTrader algo strategies (MQL5)
+- DeFi arbitrage & fair launch analysis
+- Vietnamese & US market data pipelines
+
+</td>
+<td width="33%" valign="top">
+
+#### AI, ML & agents
+- Agent harness optimization (skills, memory, security)
+- LLM CLI proxy as unified API service
+- Deep reinforcement learning for summarization
+- Stock price prediction models
+- NLP & sentiment analysis
+- Image generation (StyleGAN2)
+- Text-to-video pipelines
+
+</td>
+<td width="33%" valign="top>
+
+#### Mobile & full-stack
+- Native iOS (Swift) & Android (Kotlin)
+- Cross-platform Flutter apps
+- React / Next.js / Vue web apps
+- Django & FastAPI backends
+- Real-time dashboards & CRMs
+- Community safety platforms
+- Email intelligence tools
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+#### Infrastructure & DevOps
+- Cloudflare Workers at the edge
+- Docker & Kubernetes orchestration
+- Terraform infrastructure as code
+- GitHub Actions CI/CD pipelines
+- OpenTelemetry instrumentation
+- Outbound-only monitoring (ClawPing)
+
+</td>
+<td width="33%" valign="top">
+
+#### Data & research
+- Kaggle competitions & benchmarks
+- Geopolitical analysis & policy maps
+- Time-series forecasting (ARIMA, Hurst)
+- Financial data engineering (ETL)
+- Jupyter-based research notebooks
+- COVID-19 dashboards (early pandemic)
+
+</td>
+<td width="33%" valign="top">
+
+#### Security & safety
+- Local-first security plugins
+- Content risk scoring
+- Sensitive data redaction
+- Env secret guarding
+- Bug bounty research
+- Community verified networks
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -82,7 +260,7 @@ Outbound-only monitoring for home servers behind CGNAT. No public IP, no port fo
 
 #### [Locuno](https://locuno.com)
 
-Community safety platform I founded. Verified neighbor network that reduces emergency response times in dense urban areas. Full stack across 8 repos.
+Community safety platform I founded. Verified neighbor network that reduces emergency response times in dense urban areas. Full stack across 8 repos — app, dashboard, CRM, blog, academy, ads, landing, teams.
 
 **`TypeScript` `React` `FastAPI` `PostgreSQL`**
 
@@ -105,40 +283,6 @@ Local-first security plugin for OpenClaw. Scores risky inbound content, guards d
 Policy-grade maps and dossiers for AI, chips, capital, coalitions, and geopolitics. Supply chain risk isn't just an engineering problem.
 
 **`TypeScript` `Geospatial`**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<!-- FINTECH -->
-<div align="center">
-
-### Fintech & Quantitative
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-| Project | Description |
-|---------|-------------|
-| [mispricing-desk](https://github.com/cschanhniem/mispricing-desk) | Cross-venue mispricing detection |
-| [stophunter](https://github.com/cschanhniem/stophunter) | Stop-loss hunting pattern analysis |
-| [polymarket-master](https://github.com/cschanhniem/polymarket-master) | Prediction market automation |
-
-</td>
-<td width="50%">
-
-| Project | Description |
-|---------|-------------|
-| [market-maker-hummingbot](https://github.com/cschanhniem/market-maker-hummingbot) | Market making with Hummingbot |
-| [vnstock-master](https://github.com/cschanhniem/vnstock-master) | Vietnamese stock market data |
-| [janestreet](https://github.com/cschanhniem/janestreet) | Jane Street puzzle solutions |
 
 </td>
 </tr>
@@ -185,7 +329,7 @@ Policy-grade maps and dossiers for AI, chips, capital, coalitions, and geopoliti
 <!-- AI TOOLING -->
 <div align="center">
 
-### AI & Agent Tooling
+### AI & agent tooling
 
 </div>
 
@@ -193,6 +337,7 @@ Policy-grade maps and dossiers for AI, chips, capital, coalitions, and geopoliti
 |---------|-------------|
 | [everything-claude-code](https://github.com/cschanhniem/everything-claude-code) | Agent harness optimization — skills, instincts, memory, security |
 | [CLIProxyAPI](https://github.com/cschanhniem/CLIProxyAPI) | Wraps Gemini CLI, Codex, Claude Code as OpenAI-compatible API |
+| [ClawSeatbelt](https://github.com/cschanhniem/ClawSeatbelt) | Local-first security plugin for AI operators |
 | [codex-skill](https://github.com/cschanhniem/codex-skill) | Custom skills for Codex agents |
 
 <br/>
@@ -202,14 +347,36 @@ Policy-grade maps and dossiers for AI, chips, capital, coalitions, and geopoliti
 <!-- OSS -->
 <div align="center">
 
-### OSS contributions
+### OSS contributions & forks
 
 </div>
 
-- **[clawping](https://github.com/cschanhniem/clawping)** — 28 stars, original project
-- **[autogluon](https://github.com/cschanhniem/autogluon)** — ML in 3 lines (fork, active contributor)
-- **[opentelemetry-python-contrib](https://github.com/cschanhniem/opentelemetry-python-contrib)** — OpenTelemetry instrumentation (fork, active contributor)
-- **[models](https://github.com/cschanhniem/models)** — TensorFlow models and examples (fork)
+<table>
+<tr>
+<td width="50%">
+
+- [autogluon](https://github.com/cschanhniem/autogluon) — ML in 3 lines
+- [opentelemetry-python-contrib](https://github.com/cschanhniem/opentelemetry-python-contrib) — OTel instrumentation
+- [models](https://github.com/cschanhniem/models) — TensorFlow examples
+- [vnpy](https://github.com/cschanhniem/vnpy) — Quant trading framework
+- [tf-quant-finance](https://github.com/cschanhniem/tf-quant-finance) — TF quant library
+- [backtrader](https://github.com/cschanhniem/backtrader) — Python backtesting
+- [zipline](https://github.com/cschanhniem/zipline) — Event-driven trading
+
+</td>
+<td width="50%">
+
+- [ta-lib-python](https://github.com/cschanhniem/ta-lib-python) — Technical analysis
+- [pmdarima](https://github.com/cschanhniem/pmdarima) — ARIMA models
+- [ChatDev](https://github.com/cschanhniem/ChatDev) — AI agent teams
+- [Mailpile](https://github.com/cschanhniem/Mailpile) — Encrypted email client
+- [Text2Video-Zero](https://github.com/cschanhniem/Text2Video-Zero) — Text-to-video
+- [twint](https://github.com/cschanhniem/twint) — Twitter intelligence
+- [Hurricane](https://github.com/cschanhniem/hurst) — Hurst exponent analysis
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -227,7 +394,7 @@ Policy-grade maps and dossiers for AI, chips, capital, coalitions, and geopoliti
 
 <!-- STATS CARDS -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cschanhniem&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true&icon_color=7aa2f7&title_color=7aa2f7&text_color=c9d1d9" alt="Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschanhniem&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=8&title_color=7aa2f7&text_color=c9d1d9" alt="Top Langs"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschanhniem&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=8&title_color=7aa2f7&text_color=c9d1d9&hide=html,css" alt="Top Langs"/>
 
 <br/>
 
