@@ -16,6 +16,12 @@
 
 ---
 
+### Current focus
+
+**[Open Problem Lab](https://github.com/Open-Problem-Lab/open-problem-lab)** — verification protocol for AI work on neglected global problems. 100+ problem packs across 11 domains. Machine-checkable schemas, structured review, domain expert gates. AI-agent-first — Cursor, Windsurf, Copilot, and Claude Code all auto-detect the canonical agent guide in the repo. Human review is non-negotiable. No claim becomes accepted knowledge without it.
+
+---
+
 ### What I'm building
 
 **[ClawPing](https://github.com/cschanhniem/clawping)** — Your home server is behind CGNAT. No public IP. Uptime Kuma can't reach it. ClawPing flips the model: your server pings *out* to a Cloudflare Worker. 12 MB Go binary. Install and forget.
