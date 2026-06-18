@@ -24,6 +24,8 @@
 
 ### What I'm building
 
+**[LumiMail](https://github.com/cschanhniem/lumimail)** — Email that respects your attention. Self-hostable, privacy-first mail built on Cloudflare — no tracking pixels, no data mining, just clean delivery. I maintain it end to end.
+
 **[ClawPing](https://github.com/cschanhniem/clawping)** — Your home server is behind CGNAT. No public IP. Uptime Kuma can't reach it. ClawPing flips the model: your server pings *out* to a Cloudflare Worker. 12 MB Go binary. Install and forget.
 
 **[Locuno](https://locuno.com)** — Community safety platform I founded. Verified neighbor network that cuts emergency response times in dense urban areas. App, dashboard, CRM, blog — 8 repos, all in production.
@@ -102,6 +104,7 @@ Cloudflare Workers. Docker/K8s. Terraform. GitHub Actions. OpenTelemetry. Outbou
 
 | | Project |
 |---|---------|
+| ★ | [lumimail](https://github.com/cschanhniem/lumimail) — privacy-first email (maintainer) |
 | ★28 | [clawping](https://github.com/cschanhniem/clawping) — outbound monitoring |
 | | [autogluon](https://github.com/cschanhniem/autogluon) — ML in 3 lines |
 | | [opentelemetry-python-contrib](https://github.com/cschanhniem/opentelemetry-python-contrib) — OTel instrumentation |
