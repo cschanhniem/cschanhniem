@@ -28,6 +28,8 @@
 
 **[AGENTOWNERS](https://github.com/cschanhniem/AGENTOWNERS)** — CODEOWNERS for AI agents. Open-source policy layer that lets repository maintainers define what AI agents may do in issues, pull requests, reviews, labels, files, workflows, and repository automation.
 
+**[What's This Mail?](https://whatsthismail.com/)** — Scan any piece of physical mail with your iPhone. On-device OCR reads it, plain-English summary tells you what it is, what to do, deadlines, and whether it's a scam — nothing uploaded, no account required. Free tier + Plus ($9.99/mo) + Family ($14.99/mo). iOS & Android.
+
 **[LumiMail](https://github.com/cschanhniem/lumimail)** — Email that respects your attention. Self-hostable, privacy-first mail built on Cloudflare — no tracking pixels, no data mining, just clean delivery. I maintain it end to end.
 
 **[ClawPing](https://github.com/cschanhniem/clawping)** — Your home server is behind CGNAT. No public IP. Uptime Kuma can't reach it. ClawPing flips the model: your server pings *out* to a Cloudflare Worker. 12 MB Go binary. Install and forget.
