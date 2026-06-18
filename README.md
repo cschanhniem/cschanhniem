@@ -26,6 +26,8 @@
 
 **[Lumi](https://runlumi.app/)** — AI workspace for business owners. Paste a Zalo thread, Excel note, or site update — Lumi turns the mess into the owner's morning brief: 3 decisions, 5 overdue items, 1 customer to close today. Who owes work, which customer needs a decision, what is late. No credit card. I maintain it end to end.
 
+**[AGENTOWNERS](https://github.com/cschanhniem/AGENTOWNERS)** — CODEOWNERS for AI agents. Open-source policy layer that lets repository maintainers define what AI agents may do in issues, pull requests, reviews, labels, files, workflows, and repository automation.
+
 **[LumiMail](https://github.com/cschanhniem/lumimail)** — Email that respects your attention. Self-hostable, privacy-first mail built on Cloudflare — no tracking pixels, no data mining, just clean delivery. I maintain it end to end.
 
 **[ClawPing](https://github.com/cschanhniem/clawping)** — Your home server is behind CGNAT. No public IP. Uptime Kuma can't reach it. ClawPing flips the model: your server pings *out* to a Cloudflare Worker. 12 MB Go binary. Install and forget.
