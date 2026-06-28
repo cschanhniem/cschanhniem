@@ -24,6 +24,8 @@
 
 ### What I'm building
 
+**[OpenAMP-Foundry](https://github.com/cschanhniem/OpenAMP-Foundry)** — Computational pipeline for discovering novel antimicrobial peptides (AMPs). Physico-chemical feature scoring, amphipathicity, novelty pressure, cluster-aware benchmarking, and negative-set penalization — all wired into a reproducible CLI. Designed to surface wet-lab nominees with the highest probability of passing multi-round assays.
+
 **[Lumi](https://runlumi.app/)** — AI workspace for business owners. Paste a Zalo thread, Excel note, or site update — Lumi turns the mess into the owner's morning brief: 3 decisions, 5 overdue items, 1 customer to close today. Who owes work, which customer needs a decision, what is late. No credit card. I maintain it end to end.
 
 **[AGENTOWNERS](https://github.com/cschanhniem/AGENTOWNERS)** — CODEOWNERS for AI agents. Open-source policy layer that lets repository maintainers define what AI agents may do in issues, pull requests, reviews, labels, files, workflows, and repository automation.
@@ -58,7 +60,7 @@ Native iOS (Swift). Native Android (Kotlin). Cross-platform Flutter. All shipped
 <td width="50%" valign="top">
 
 **AI & ML**
-Agent harness optimization. LLM CLI → unified API proxy. Deep RL for text summarization. Stock prediction models. StyleGAN2. Text-to-video. NLP sentiment analysis.
+Agent harness optimization. LLM CLI → unified API proxy. Deep RL for text summarization. Stock prediction models. StyleGAN2. Text-to-video. NLP sentiment analysis. AI SDLC — agents drive the full loop: spec, plan, TDD, review, ship.
 
 **Infrastructure**
 Cloudflare Workers. Docker/K8s. Terraform. GitHub Actions. OpenTelemetry. Outbound-only monitoring. Real-time dashboards.
