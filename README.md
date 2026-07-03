@@ -26,6 +26,8 @@
 
 **[OpenAMP-Foundry](https://github.com/cschanhniem/OpenAMP-Foundry)** — Computational pipeline for discovering novel antimicrobial peptides (AMPs). Physico-chemical feature scoring, amphipathicity, novelty pressure, cluster-aware benchmarking, and negative-set penalization — all wired into a reproducible CLI. Designed to surface wet-lab nominees with the highest probability of passing multi-round assays.
 
+**[Mispricing Desk](https://mispricing-desk.4rqnf2gvxf.workers.dev/)** — Public research desk where a market is pricing one narrative while overlooking another. 500+ published notes on equity mispricings — GAAP ghosts, forward-earnings gaps, buyback catalysts, dividends the tape ignores. Each note follows one framework and names the factor the market hasn't recognized yet. Backed by [mispricing-desk](https://github.com/cschanhniem/mispricing-desk), served from a Cloudflare Worker.
+
 **[Lumi](https://runlumi.app/)** — AI workspace for business owners. Paste a Zalo thread, Excel note, or site update — Lumi turns the mess into the owner's morning brief: 3 decisions, 5 overdue items, 1 customer to close today. Who owes work, which customer needs a decision, what is late. No credit card. I maintain it end to end.
 
 **[AGENTOWNERS](https://github.com/cschanhniem/AGENTOWNERS)** — CODEOWNERS for AI agents. Open-source policy layer that lets repository maintainers define what AI agents may do in issues, pull requests, reviews, labels, files, workflows, and repository automation.
