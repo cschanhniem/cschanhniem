@@ -1,6 +1,6 @@
 # Chánh Niệm
 
-I build software for decisions where hand-waving is expensive: AI-assisted research, public markets, and small-business operations.
+I build software for decisions where hand-waving is expensive: AI-assisted research, public markets, and small-business operations. 
 
 [LinkedIn](https://www.linkedin.com/in/theaiarchitect/) · [Email](mailto:vh3969@gmail.com)
 
