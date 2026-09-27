@@ -6,6 +6,11 @@ I build software for decisions where hand-waving is expensive: AI-assisted resea
 
 ## Current focus
 
+### [Toward Stream Entry Project](https://streamentry.github.io/streamentry/)
+
+### [Kinh Tạng Pali]([https://streamentry.github.io/streamentry/](https://streamentry.github.io/kinh-tang-pali/))
+
+
 ### [Open Problem Lab](https://github.com/Open-Problem-Lab/open-problem-lab)
 
 A GitHub-native verification protocol for work on neglected global problems. Canonical submissions expose their sources, methods, assumptions, limits, and failure modes. Schemas and CI enforce structure; human review and risk-based replication govern acceptance.
