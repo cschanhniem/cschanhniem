@@ -8,7 +8,7 @@ I build software for decisions where hand-waving is expensive: AI-assisted resea
 
 ### [Toward Stream Entry Project](https://streamentry.github.io/streamentry/)
 
-### [Kinh Tạng Pali]([https://streamentry.github.io/streamentry/](https://streamentry.github.io/kinh-tang-pali/))
+### [Kinh Tạng Pali](https://streamentry.github.io/kinh-tang-pali/)
 
 
 ### [Open Problem Lab](https://github.com/Open-Problem-Lab/open-problem-lab)
