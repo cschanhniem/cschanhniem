@@ -10,7 +10,7 @@ I build software for decisions where hand-waving is expensive: AI-assisted resea
 
 ### [Kinh Tạng Pali](https://streamentry.github.io/kinh-tang-pali/)
 
-### [The Thread Seers]([https://streamentry.github.io/kinh-tang-pali/](https://streamentry.github.io/thethreadseers.com/))
+### [The Thread Seers](https://streamentry.github.io/thethreadseers.com/)
 
 
 ### [Open Problem Lab](https://github.com/Open-Problem-Lab/open-problem-lab)
