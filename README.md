@@ -35,7 +35,7 @@ Lumi turns scattered team updates into a short daily brief for small-business ow
 
 ClawPing monitors home servers behind CGNAT. A static Go agent sends health checks outbound to a Cloudflare control plane, which tracks incidents and alerts through Telegram. It needs no inbound ports, dynamic DNS, or monitoring VPS.
 
-### [Golden Moments]([https://github.com/cschanhniem/clawping](https://dementiaactivities.games/))
+### [Golden Moments](https://github.com/cschanhniem/clawping](https://dementiaactivities.games/)
 
 Gentle Games & Activities for People with Dementia. Simple picture games, familiar photos, and activities to enjoy together—at your own pace.
 
